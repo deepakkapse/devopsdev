@@ -1,4 +1,9 @@
 hi deepak
 bbbbb
 wwwwwwww
+<<<<<<< HEAD
 abcabc
+=======
+abcdef
+iopoiyyy
+>>>>>>> dev1
